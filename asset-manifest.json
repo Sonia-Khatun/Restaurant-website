@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/Restaurant-website/static/css/main.ea873b33.css",
+    "main.js": "/Restaurant-website/static/js/main.71780916.js",
+    "static/media/bg.png": "/Restaurant-website/static/media/bg.3d421b1b5682e1b67deb.png",
+    "static/media/meal.mp4": "/Restaurant-website/static/media/meal.e0e5e9518e572198e3e5.mp4",
+    "static/media/findus.jpg": "/Restaurant-website/static/media/findus.0144b66990db401f171a.jpg",
+    "static/media/overlaybg.png": "/Restaurant-website/static/media/overlaybg.165362eea72d1614ae28.png",
+    "static/media/gg.png": "/Restaurant-website/static/media/gg.1333b521be879f24ac7f.png",
+    "static/media/cocktail.png": "/Restaurant-website/static/media/cocktail.6150dd0c14a8c9f1dc0e.png",
+    "static/media/welcome.jpeg": "/Restaurant-website/static/media/welcome.0ecd3162ff6fbed5c0fd.jpeg",
+    "static/media/gallery04.jpeg": "/Restaurant-website/static/media/gallery04.02cf04260e66889850f6.jpeg",
+    "static/media/knifeee.png": "/Restaurant-website/static/media/knifeee.e0c64ce0b1e3f7dba582.png",
+    "static/media/gallery02.jpeg": "/Restaurant-website/static/media/gallery02.689337b7ffb403fd3e95.jpeg",
+    "static/media/laurels.jpeg": "/Restaurant-website/static/media/laurels.ed14fb4be0c46a7fa8bc.jpeg",
+    "static/media/cchef.jpg": "/Restaurant-website/static/media/cchef.00c49e792f86fc0fe412.jpg",
+    "static/media/gallery03.jpeg": "/Restaurant-website/static/media/gallery03.f616f16012d19825c71b.jpeg",
+    "static/media/gallery01.webp": "/Restaurant-website/static/media/gallery01.6eff306a6691b3e6f0a4.webp",
+    "static/media/signature.png": "/Restaurant-website/static/media/signature.7cbe162b86def56bd362.png",
+    "static/media/award02.png": "/Restaurant-website/static/media/award02.8bbdd51499739653b003.png",
+    "static/media/award05.png": "/Restaurant-website/static/media/award05.48a7f5206184009dcb29.png",
+    "static/media/award01.png": "/Restaurant-website/static/media/award01.361a4bc44b59b55abeda.png",
+    "static/media/award03.png": "/Restaurant-website/static/media/award03.3f7ee934c17dccbd5fc6.png",
+    "index.html": "/Restaurant-website/index.html",
+    "static/media/spoon.svg": "/Restaurant-website/static/media/spoon.d079f43fbcf509908d3865293080795a.svg",
+    "main.ea873b33.css.map": "/Restaurant-website/static/css/main.ea873b33.css.map",
+    "main.71780916.js.map": "/Restaurant-website/static/js/main.71780916.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ea873b33.css",
+    "static/js/main.71780916.js"
+  ]
+}
